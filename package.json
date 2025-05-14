@@ -1,0 +1,23 @@
+{
+  "name": "cicd-with-terraform",
+  "version": "1.0.0",
+  "description": "## Technologies: - Terraform - Github Actions - Docker - Node.js - AWS EC2 - AWS S3 - AWS ECR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaykruk/CICD-with-terraform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaykruk/CICD-with-terraform/issues"
+  },
+  "homepage": "https://github.com/kaykruk/CICD-with-terraform#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
